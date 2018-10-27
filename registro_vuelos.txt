@@ -1,3 +1,6 @@
-Destino: ss
-Destino: E
-Destino: sss
+
+4 - Madrid
+55 - Ambato
+33 - Solanda
+2 - Macas
+6:77 - Brasil
